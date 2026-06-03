@@ -18,4 +18,4 @@
 ## 怎么跑
 1. Logisim-evolution 4.1.0+ 打开 `mycomputer_64.circ`
 2. 双击 RAM，按示例程序写数据
-3. `Ctrl+K` 运行，看 LED
+3. `Ctrl+K` 运行，看 输出Pin
